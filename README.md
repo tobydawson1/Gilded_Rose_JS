@@ -1,3 +1,3 @@
 # Gilded_Rose_JS
 
-[Planning](screenshots/planning.png)
+![Planning](screenshots/planning.png)
